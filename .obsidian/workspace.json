@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09972e521f1fd9a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week2/FileDescriptors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "72eea48f5f2d3f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week2/FileDescriptors.md",
+                "file": "week3/stat(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week2/FileDescriptors.md",
+                "file": "week3/stat(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week2/FileDescriptors.md",
+                "file": "week3/stat(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week2/FileDescriptors.md"
+                "file": "week3/stat(2).md"
               }
             }
           }
@@ -158,26 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a07f6ae3b9fbd2c",
+  "active": "72eea48f5f2d3f14",
   "lastOpenFiles": [
-    "week2/images/forking.png",
-    "week2/images/descriptor_table.png",
-    "week2/FileDescriptors.md",
+    "week3/file_permissions.md",
+    "week3/chmod_chown.md",
     "week2/Questions.md",
+    "week2/FileSharing.md",
+    "week2/FileDescriptors.md",
+    "week4/UnixFileSystem.md",
+    "week4/images/inode_dir.png",
+    "week4/images/inode_hardlink.png",
+    "week4/images/filesystem.png",
+    "week3/umask.md",
+    "week4/images",
+    "week4",
+    "week3/images/umask.png",
+    "week3/uids_gids.md",
+    "week3/images/chown.png",
+    "week3/images/chmod.png",
+    "week3/images/rules_access.png",
+    "week3/images/st_mode 1.png",
+    "week3/stat(2).md",
+    "week3/images/access.png",
     "week1/Tooltip1.md",
+    "week3/images/st_mode.png",
+    "week3/images",
+    "week3",
+    "week1/UNIX History.md",
     "week1/UnixBasics.md",
     "README.md",
-    "week2/images/file_descriptors.png",
-    "week1/UNIX History.md",
     "week1/Intro.md",
-    "week1/images/tmux.png",
-    "week1/images/screen.png",
-    "week1/images/kernel.png",
-    "week1/images/unix_variants2.png",
-    "week1/images/unix_variants.png",
-    "week1/images/job_control.png",
-    "week1/images/io_redirection.png",
-    "week1/images/unix_genealogy.png",
     "week2/images",
     "week2",
     "week1/images",
